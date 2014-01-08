@@ -1,27 +1,31 @@
-title:            Stnava
-tagline:          Open-science
-description:      theory-driven, practical open-source science
+title:            Site Title
+tagline:          A short tagline
+description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Brian Avants
+  name:           Your Name
   avatar:         bio-photo.jpg
-  bio:            I develop analysis systems for multidimensional medical datasets that include imaging. My work is aided by open-source projects, ANTs, ANTsR and ITK, open-source toolkits used throughout academia and industry. 
-  email:          stnava@gmail.com
+  bio:            "Describe your self."
+  email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:  stnava      
-  facebook: NA
-  github:   stnava      
-  linkedin: stnava    
-  instagram: stnava
+  twitter:        
+  facebook:       
+  github:         
+  linkedin:       
+  instagram:      
+  lastfm:         
+  tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus: https://plus.google.com/b/103483966822330362959/ 
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
 google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:        
 
 # Links to include in top navigation
 # For external links add external: true
